@@ -19,11 +19,11 @@ Hi, my name is Zuzanna, I'm almost 20 years old. Since I was about 16, I've been
 
 • remigiuszbednarczyk.pl/
 
-• www.wyszkolewas.com.pl
+• wyszkolewas.com.pl
 
 ## My projects
 ### Bugs 
-Bugs on skleptest.pl site <a href="https://1drv.ms/x/c/5049ee7fdc424d5c/EdRT3gk0NdhGg-CF3jberdYBIYJyE-WU-SnNsZhXaYdL-A?e=cSDMo7">Link to bug</a>
+Bugs on skleptest.pl site <a href="https://1drv.ms/x/c/5049ee7fdc424d5c/EdRT3gk0NdhGg-CF3jberdYBIYJyE-WU-SnNsZhXaYdL-A?e=cSDMo7">Link</a>
 
 
 ### Scenarios
